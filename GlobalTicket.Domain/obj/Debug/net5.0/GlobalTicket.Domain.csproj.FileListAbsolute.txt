@@ -1,0 +1,12 @@
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\bin\Debug\net5.0\GlobalTicket.Domain.deps.json
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\bin\Debug\net5.0\GlobalTicket.Domain.dll
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\bin\Debug\net5.0\ref\GlobalTicket.Domain.dll
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\bin\Debug\net5.0\GlobalTicket.Domain.pdb
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\obj\Debug\net5.0\GlobalTicket.Domain.csprojAssemblyReference.cache
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\obj\Debug\net5.0\GlobalTicket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\obj\Debug\net5.0\GlobalTicket.Domain.AssemblyInfoInputs.cache
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\obj\Debug\net5.0\GlobalTicket.Domain.AssemblyInfo.cs
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\obj\Debug\net5.0\GlobalTicket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\obj\Debug\net5.0\GlobalTicket.Domain.dll
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\obj\Debug\net5.0\ref\GlobalTicket.Domain.dll
+C:\Users\Main\Documents\Projects\GlobalTicket.TicketManagement\GlobalTicket.Domain\obj\Debug\net5.0\GlobalTicket.Domain.pdb
